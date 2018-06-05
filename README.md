@@ -1,2 +1,3 @@
 # holiday-api
-API to manage official holidays
+
+Play framework based API to manage official holidays
